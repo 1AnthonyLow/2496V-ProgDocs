@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1695144189 "/Users/anthonylow/2496V Programing Documentation/main.tex" "main.pdf" "main" 1695144189 2
+  "/Users/anthonylow/2496V Programing Documentation/main.tex" 1695144189 901 8efac067853eb8a7b5f86a6a4d1b659a ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty" 1654720880 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty" 1654720880 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1667332637 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1667332637 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/extsizes/extsizes.sty" 1137110130 3240 8f6d502ca1d06cc8136c36580bba7618 ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695092130 7883454 d94ad2c955c09c0a914dd19d9e8df3a6 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "main.aux" 1695144189 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1695144189 901 8efac067853eb8a7b5f86a6a4d1b659a ""
+  "size0.clo" 0 -1 0 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
